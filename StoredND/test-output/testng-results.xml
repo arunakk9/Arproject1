@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28362" started-at="2018-04-24T13:45:01Z" finished-at="2018-04-24T13:45:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28362" started-at="2018-04-24T13:45:01Z" finished-at="2018-04-24T13:45:29Z">
+      <class name="com.storednd.MyBooking">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.storednd.MyBooking@48eff760]" name="setUp" is-config="true" duration-ms="17450" started-at="2018-04-24T19:15:01Z" finished-at="2018-04-24T19:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMyBookingSND()[pri:0, instance:com.storednd.MyBooking@48eff760]" name="testMyBookingSND" duration-ms="10021" started-at="2018-04-24T19:15:18Z" finished-at="2018-04-24T19:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyBookingSND -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.storednd.MyBooking@48eff760]" name="tearDown" is-config="true" duration-ms="869" started-at="2018-04-24T19:15:28Z" finished-at="2018-04-24T19:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.storednd.MyBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
